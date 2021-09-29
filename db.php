@@ -10,4 +10,5 @@
         echo "Failed to connect to MySQL :". mysgli_connect_error();
 
     }
+    
 ?>

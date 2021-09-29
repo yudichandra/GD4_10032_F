@@ -75,6 +75,7 @@
  <i class="fa fa-plus-square"></i>
  <a href="../page/addMahasiswaPage.php" style="font-weight:600">Add Mahasiswa</a>
  </div>
+
  <div class="content-menu " >
  <i class="fa fa-sign-out"></i>
  <a href="../process/logoutProcess.php" style="font-weight:600">Logout</a>
